@@ -1,0 +1,3 @@
+Para abrir la aplicacion abrir la carpeta
+APLICACION - copia\PROYECTO FINAL\bin\Debug
+y abrir el PROYECTO FINAL.exe :)

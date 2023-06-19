@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE298D28-6776-4854-8F77-4D1A649ED2EA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PROYECTO_FINAL</RootNamespace>
+    <AssemblyName>PROYECTO FINAL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ayudaCU.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ayudaCU.Designer.cs">
+      <DependentUpon>ayudaCU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstCustomerControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FirstCustomerControl.Designer.cs">
+      <DependentUpon>FirstCustomerControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FourthControlUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FourthControlUser.Designer.cs">
+      <DependentUpon>FourthControlUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PedidoEstado.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PedidoEstado.Designer.cs">
+      <DependentUpon>PedidoEstado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SecondCustomerControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SecondCustomerControl.Designer.cs">
+      <DependentUpon>SecondCustomerControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThirdControlUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ThirdControlUser.Designer.cs">
+      <DependentUpon>ThirdControlUser.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ayudaCU.resx">
+      <DependentUpon>ayudaCU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstCustomerControl.resx">
+      <DependentUpon>FirstCustomerControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FourthControlUser.resx">
+      <DependentUpon>FourthControlUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PedidoEstado.resx">
+      <DependentUpon>PedidoEstado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SecondCustomerControl.resx">
+      <DependentUpon>SecondCustomerControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThirdControlUser.resx">
+      <DependentUpon>ThirdControlUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\hamburguesa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\Burger-PNG-Photo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\pizza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\empanadas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\fernet.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\coca.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\7up.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\ach.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\toallita.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\ibu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\soporte.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\sop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\emailIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\telefono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\img\Tickmark.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

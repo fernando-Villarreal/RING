@@ -1,0 +1,89 @@
+C:\Users\Scerbo\Desktop\APLICACION\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\Scerbo\Desktop\APLICACION\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\Scerbo\Desktop\APLICACION\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\Scerbo\Desktop\APLICACION\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.AssemblyReference.cache
+C:\Users\Scerbo\Desktop\APLICACION\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Scerbo\Desktop\APLICACION\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FirstCustomerControl.resources
+C:\Users\Scerbo\Desktop\APLICACION\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+C:\Users\Scerbo\Desktop\APLICACION\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\Scerbo\Desktop\APLICACION\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\Scerbo\Desktop\APLICACION\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Scerbo\Desktop\APLICACION\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\Scerbo\Desktop\APLICACION\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+C:\Users\Scerbo\Desktop\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\Scerbo\Desktop\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\Scerbo\Desktop\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\Scerbo\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.AssemblyReference.cache
+C:\Users\Scerbo\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Scerbo\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FirstCustomerControl.resources
+C:\Users\Scerbo\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+C:\Users\Scerbo\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\Scerbo\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\Scerbo\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Scerbo\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\Scerbo\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FirstCustomerControl.resources
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.SecondCustomerControl.resources
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.ThirdControlUser.resources
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FourthControlUser.resources
+C:\Users\Alumno\Desktop\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.ayudaCU.resources
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.AssemblyReference.cache
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.ayudaCU.resources
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FirstCustomerControl.resources
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FourthControlUser.resources
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.SecondCustomerControl.resources
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.ThirdControlUser.resources
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\Scerbo\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.PedidoEstado.resources
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.ayudaCU.resources
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FirstCustomerControl.resources
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FourthControlUser.resources
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.PedidoEstado.resources
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.SecondCustomerControl.resources
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.ThirdControlUser.resources
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\Alumno\Desktop\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.AssemblyReference.cache
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.ayudaCU.resources
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FirstCustomerControl.resources
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.FourthControlUser.resources
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.PedidoEstado.resources
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.SecondCustomerControl.resources
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.ThirdControlUser.resources
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.CoreCompileInputs.cache
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\GOSTE\Desktop\ring\Ring\APLICACION - copia\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
